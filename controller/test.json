@@ -1,0 +1,168 @@
+{
+    "products": [
+        {
+            "visible": true,
+            "productRef": [
+                {
+                    "store": "658aafd35e99b1003291375d",
+                    "prices": {
+                        "price": 599,
+                        "originalPrice": 800,
+                        "discount": 201
+                    },
+                    "categories": [
+                        "6533dd62a2c2630031380178"
+                    ],
+                    "image": [],
+                    "tag": [
+                        "[]"
+                    ],
+                    "variants": [],
+                    "approved": false,
+                    "status": "SFA",
+                    "_id": "658ad2138583d4003230ec13",
+                    "productId": "658ad2138583d4003230ec12",
+                    "sku": "",
+                    "barcode": "",
+                    "title": {
+                        "en": "Saree"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "slug": "saree",
+                    "category": "6533dd62a2c2630031380178",
+                    "stock": 6,
+                    "isCombination": false,
+                    "createdAt": "2023-12-26T13:16:03.613Z",
+                    "updatedAt": "2023-12-26T13:28:06.864Z",
+                    "__v": 0
+                },
+                {
+                    "store": "658aafd35e99b1003291375d",
+                    "prices": {
+                        "price": 299,
+                        "originalPrice": 350,
+                        "discount": 51
+                    },
+                    "categories": [
+                        "652af013cb4539003099a178"
+                    ],
+                    "image": [],
+                    "tag": [
+                        "[]"
+                    ],
+                    "variants": [],
+                    "approved": false,
+                    "status": "SFA",
+                    "_id": "658ad28e8583d4003230ec6d",
+                    "productId": "658ad28e8583d4003230ec6c",
+                    "sku": "",
+                    "barcode": "",
+                    "title": {
+                        "en": "Buffay"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "slug": "buffay",
+                    "category": "652af013cb4539003099a178",
+                    "stock": 18,
+                    "isCombination": false,
+                    "createdAt": "2023-12-26T13:18:06.626Z",
+                    "updatedAt": "2023-12-26T13:28:12.995Z",
+                    "__v": 0
+                }
+            ],
+            "categoryRef": [],
+            "BlogLinkReference": [],
+            "_id": "658af1fd02eb5f7a881f793a",
+            "sectionCode": "FS",
+            "sectionTitle": "Offer Banner",
+            "offerBlock": [],
+            "__v": 0
+        },
+        {
+            "visible": true,
+            "productRef": [
+                {
+                    "store": "658aafd35e99b1003291375d",
+                    "prices": {
+                        "price": 599,
+                        "originalPrice": 800,
+                        "discount": 201
+                    },
+                    "categories": [
+                        "6533dd62a2c2630031380178"
+                    ],
+                    "image": [],
+                    "tag": [
+                        "[]"
+                    ],
+                    "variants": [],
+                    "approved": false,
+                    "status": "SFA",
+                    "_id": "658ad2138583d4003230ec13",
+                    "productId": "658ad2138583d4003230ec12",
+                    "sku": "",
+                    "barcode": "",
+                    "title": {
+                        "en": "Saree"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "slug": "saree",
+                    "category": "6533dd62a2c2630031380178",
+                    "stock": 6,
+                    "isCombination": false,
+                    "createdAt": "2023-12-26T13:16:03.613Z",
+                    "updatedAt": "2023-12-26T13:28:06.864Z",
+                    "__v": 0
+                },
+                {
+                    "store": "658aafd35e99b1003291375d",
+                    "prices": {
+                        "price": 299,
+                        "originalPrice": 350,
+                        "discount": 51
+                    },
+                    "categories": [
+                        "652af013cb4539003099a178"
+                    ],
+                    "image": [],
+                    "tag": [
+                        "[]"
+                    ],
+                    "variants": [],
+                    "approved": false,
+                    "status": "SFA",
+                    "_id": "658ad28e8583d4003230ec6d",
+                    "productId": "658ad28e8583d4003230ec6c",
+                    "sku": "",
+                    "barcode": "",
+                    "title": {
+                        "en": "Buffay"
+                    },
+                    "description": {
+                        "en": ""
+                    },
+                    "slug": "buffay",
+                    "category": "652af013cb4539003099a178",
+                    "stock": 18,
+                    "isCombination": false,
+                    "createdAt": "2023-12-26T13:18:06.626Z",
+                    "updatedAt": "2023-12-26T13:28:12.995Z",
+                    "__v": 0
+                }
+            ],
+            "categoryRef": [],
+            "BlogLinkReference": [],
+            "_id": "658af52202eb5f7a881f7940",
+            "sectionCode": "FS",
+            "sectionTitle": "Flash Sale",
+            "offerBlock": [],
+            "__v": 0
+        }
+    ]
+}
